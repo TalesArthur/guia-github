@@ -1,0 +1,12 @@
+O GitHub é uma plataforma de hospedagem de código-fonte e controle de versão que usa o Git, um sistema de controle de versão distribuído.   
+Ele permite que desenvolvedores colaborem em projetos de software de forma eficiente, compartilhando código, rastreando alterações e contribuindo com melhorias.
+
+Principais funcionalidades do GitHub:
+Repositórios: Locais onde o código-fonte e outros arquivos de um projeto são armazenados. Podem ser públicos ou privados.
+Git: O sistema de controle de versão que permite que várias pessoas trabalhem no mesmo projeto sem conflitos, rastreando todas as alterações feitas ao código.
+Branches: Ramificações do código que permitem que os desenvolvedores trabalhem em novas funcionalidades ou correções de bugs sem afetar o código principal até que estejam prontos para integrar as mudanças.
+Pull Requests: Solicitações para revisar e potencialmente integrar alterações de uma branch ao código principal. Outros colaboradores podem revisar, comentar e sugerir modificações antes da aprovação.
+Issues: Ferramenta para rastreamento de problemas, bugs ou solicitações de novas funcionalidades dentro de um projeto. As issues podem ser atribuídas a desenvolvedores, discutidas e fechadas quando resolvidas.
+Actions: Ferramenta de automação de fluxo de trabalho que permite configurar pipelines CI/CD (integração contínua e entrega contínua) para testar, compilar e implantar o código automaticamente.
+GitHub Pages: Um serviço que permite hospedar sites diretamente a partir de um repositório GitHub, geralmente usado para documentação ou blogs de projetos.
+Além de ser uma ferramenta poderosa para desenvolvedores de software, o GitHub é amplamente utilizado para colaborar em projetos de código aberto e é uma comunidade ativa onde desenvolvedores podem contribuir para uma infinidade de projetos.
