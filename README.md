@@ -27,4 +27,14 @@ O GitHub hospeda mais de 100 milhões de repositórios, com a maior parte deles 
 
 Isso acontece porque o GitHub é um projeto de gestão baseado em nuvem e uma plataforma de organização que incorpora os recursos de controle de versão do Git. Isso significa que todos os usuários do GitHub podem acompanhar e gerenciar as mudanças feitas para o código-fonte em tempo real, enquanto têm acesso a todos os outros recursos do Git disponíveis no mesmo lugar.
 
-Além disso, a interface de usuário do GitHub é mais amigável do que a do Git, fazendo com que seja mais acessível para pessoas que possuem pouco ou nenhum conhecimento técnico. Isso significa mais membros de equipe podem ser incluídos no progresso e na gestão do projeto, fazendo com que o processo seja mais tranquilo.
+Além disso, a interface de usuário do GitHub é mais amigável do que a do Git, fazendo com que seja mais acessível para pessoas que possuem pouco ou nenhum conhecimento técnico. Isso significa mais membros de equipe podem ser incluídos no progresso e na gestão do projeto, fazendo com que o processo seja mais tranquilo.  
+
+
+Como Começar a Usar o GitHub  
+
+Você pode experimentar o GitHub com a sua equipe de graça. Existe um plano básico disponível que inclui repositórios e colaboradores ilimitados, mas oferece apenas 500 MB de espaço de armazenamento.
+
+Para aproveitar melhor os muitos recursos do GitHub, você pode escolher um dos planos pagos que eles oferecem.
+
+Assim que você escolher um plano, preencha os detalhes solicitados e finalize o processo de registro. A partir daí, você pode começar a explorar o que eu o GitHub tem a oferecer. Ao contrário do Git, o GitHub não vai exigir que você tenha conhecimentos de programação ou que use linhas de comando.
+
